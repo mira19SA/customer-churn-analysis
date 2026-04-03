@@ -24,8 +24,13 @@ The dataset contains customer information such as:
 - Percentage of customers who churned
 - Basic statistical insights from the dataset
 
-## Visualization
-![Churn Chart](chart.png)
+## Data Visualization
+
+### Churn Distribution
+![Churn Bar](churn_bar.png)
+
+### Confusion Matrix
+![Confusion Matrix](confusion_matrix.png)
 
 ## How to Run
 ```bash
