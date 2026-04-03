@@ -1,0 +1,11 @@
+import pandas as pd
+df = pd.read_excel("Telco_customer_churn.xlsx")
+print(df.head())
+print("\n--- Info ---")
+df.info()
+print("\n--- Describe ---")
+print(df.describe())
+print("\n--- Churn Count ---")
+print(df["Churn Label"].value_counts())
+print("\n--- Churn Percentage ---")
+print(df["Churn Label"].value_counts(normalize=True) * 100)
