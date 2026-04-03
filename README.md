@@ -24,6 +24,9 @@ The dataset contains customer information such as:
 - Percentage of customers who churned
 - Basic statistical insights from the dataset
 
+## Visualization
+![Churn Chart](chart.png)
+
 ## How to Run
 ```bash
 python analysis.py
