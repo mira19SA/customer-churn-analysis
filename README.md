@@ -1,7 +1,7 @@
-# Customer Churn Analysis
+# Customer Churn Analysis (Machine Learning Project)
 
 ## Project Overview
-This project analyzes customer churn data using Python and Pandas to understand customer behavior and identify churn patterns.
+This project analyzes customer churn data and builds a machine learning model to predict whether a customer will leave or stay.
 
 ## Dataset
 The dataset contains customer information such as:
@@ -31,6 +31,16 @@ The dataset contains customer information such as:
 
 ### Confusion Matrix
 ![Confusion Matrix](confusion_matrix.png)
+
+### Results 
+- Model: Logistic Regression
+- Accuracy: ~72%
+
+## Technologies Used
+- Python
+- Pandas
+- Scikit-learn
+- Matplotlib
 
 ## How to Run
 ```bash
