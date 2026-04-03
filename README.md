@@ -2,6 +2,13 @@
 
 ## Project Overview
 This project analyzes customer churn data and builds a machine learning model to predict whether a customer will leave or stay.
+This project demonstrates skills in data analysis and machine learning.
+
+## Technologies Used
+- Python
+- Pandas
+- Scikit-learn
+- Matplotlib
 
 ## Dataset
 The dataset contains customer information such as:
@@ -35,12 +42,6 @@ The dataset contains customer information such as:
 ### Results 
 - Model: Logistic Regression
 - Accuracy: ~72%
-
-## Technologies Used
-- Python
-- Pandas
-- Scikit-learn
-- Matplotlib
 
 ## How to Run
 ```bash
